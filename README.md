@@ -1,2 +1,3 @@
 # Scraping-Websites-
-Scraping data from websites 
+Scraping data from various  websites.
+Keep updated. Will add more algorithms.
